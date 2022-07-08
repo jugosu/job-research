@@ -1,6 +1,6 @@
 ## [오디오 플랫폼 FLO]Python 기반 빅데이터 처리 개발자
 
-![FLO](readme.assets/FLO.png)
+![FLO](research.assets/FLO.png)
 
 ### ⚾주요 업무
 
@@ -40,7 +40,7 @@
 
 ## [인텔리전스랩스] (넥슨코리아)선행개발실 백엔드 개발자(Go/Python)
 
-![image_readtop_2020_375300_158642](readme.assets/image_readtop_2020_375300_158642.jpg)
+![image_readtop_2020_375300_158642](research.assets/image_readtop_2020_375300_158642.jpg)
 
 ### ⚾주요 업무
 
@@ -84,7 +84,7 @@
 
 ## [버킷플레이스] (오늘의집)Software Engineer, Backend, Ads
 
-![unnamed (1)](readme.assets/unnamed (1).jpg)
+![unnamed (1)](research.assets/unnamed (1).jpg)
 
 ### ⚾주요 업무
 
@@ -134,7 +134,7 @@
 
 ## [토스뱅크] Frontend Developer]
 
-![toss](readme.assets/toss-16572657595924.jpg)
+![toss](research.assets/toss-16572657595924.jpg)
 
 ### ⚾주요 업무
 
@@ -190,7 +190,7 @@
 
 ## [샌드박스네트워크] [Content Tech] 백엔드 개발자
 
-![샌드박스](readme.assets/샌드박스.jpg)
+![샌드박스](research.assets/샌드박스.jpg)
 
 ### ⚾주요 업무
 
