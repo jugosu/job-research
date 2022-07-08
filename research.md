@@ -84,7 +84,7 @@
 
 ## [버킷플레이스] (오늘의집)Software Engineer, Backend, Ads
 
-![unnamed (1)](research.assets/unnamed (1).jpg)
+![unnamed (1)](research.assets/unnamed_(1).jpg)
 
 ### ⚾주요 업무
 
